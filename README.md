@@ -1,2 +1,11 @@
 # websocket-testing
-Testing a websockets using express and nodejs.
+Testing a websocket using express and nodejs and socket.io.
+
+to get started run
+```
+npm install
+```
+
+```
+npm run dev
+```
